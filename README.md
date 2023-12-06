@@ -22,9 +22,6 @@ The goal of this repository is to provide a rich dataset for researchers and the
 
 We welcome researchers and practitioners to utilize this data in their studies and interventions, contributing to the advancement of VR technologies in rehabilitation therapy.
 
-## Contact
-For any queries or further information regarding this dataset, please feel free to contact [Your Contact Information].
-
 ## Acknowledgments
 Special thanks to the team at the National Paraplegic Hospital in Toledo for their collaboration and support in this study.
 
