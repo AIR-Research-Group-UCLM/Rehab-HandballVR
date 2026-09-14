@@ -1,0 +1,46 @@
+{
+  "title": "Rehab-HandballVR: kinematic recordings from a virtual reality adapted handball serious game for upper limb rehabilitation",
+  "description": "Kinematic recordings and performance metrics of nine participants across two exercises of an adapted handball serious game in virtual reality, collected in an experimental session at the Hospital Nacional de Parapléjicos (Toledo, Spain). This work was supported by the Spanish Ministry of Science, Innovation and Universities / Agencia Estatal de Investigación under grant PID2020-117361RB-C21 (project REHAB-IMMERSIVE), and carried out by the AIR Research Group of the Universidad de Castilla-La Mancha in collaboration with the Hospital Nacional de Parapléjicos (Toledo, Spain).",
+  "creators": [
+    {
+      "name": "Albusac, Javier",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0003-1889-3065"
+    },
+    {
+      "name": "Herrera, Vanesa",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-6187-4794"
+    },
+    {
+      "name": "Domínguez-Ocaña, Ó.",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain"
+    },
+    {
+      "name": "Angulo, E.",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain"
+    },
+    {
+      "name": "de los Reyes-Guzmán, Ana",
+      "affiliation": "Hospital Nacional de Parapléjicos, Toledo, Spain",
+      "orcid": "0000-0003-2905-2405"
+    },
+    {
+      "name": "Vallejo, David",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-6001-7192"
+    }
+  ],
+  "upload_type": "software",
+  "license": "mit",
+  "keywords": [
+    "serious game",
+    "handball",
+    "virtual reality",
+    "upper limb rehabilitation",
+    "kinematics",
+    "spinal cord injury"
+  ],
+  "access_right": "open",
+  "language": "eng"
+}
